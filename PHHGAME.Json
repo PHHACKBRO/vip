@@ -1,1 +1,32 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.5",
+//link for server update
+"Url":"https://protect-link.duckdns.org/new1.zip" ,
+"Changelog":"
+TRUE DTAC သက်တမ်းရှိတဲ့သုံးပြုလို့ရမယ် TH GAME VIP = ဖိုင်
 
+•=TH-VIPလိုင်းကောင်းကောင်
+
+တစ်လမှ70ဘတ်
+
+cb လာရောက်ဝယ်ယူအားပေးနိုင်ပါပြီး
+
+paingpainghein 
+
+Add function to load
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
